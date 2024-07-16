@@ -33,16 +33,16 @@ JScripter is a Python script designed to scrape and save unique JavaScript files
 
 You can install the required libraries using pip:
 
-```sh
+```
 pip install requests beautifulsoup4 colorama tqdm
 ```
 
 ## Installation
 
 1. Clone the repository:
-``sh
-    git clone https://github.com/yourusername/scripthunter_bot.git
-    cd scripthunter_bot
+
+    * git clone https://github.com/ifconfig-me/JScripter/JScripter.git
+    * cd JScripter
 ``
 2. Ensure that GAU, hakrawler, and FFUF are installed and accessible from the command line.
 
@@ -52,11 +52,11 @@ pip install requests beautifulsoup4 colorama tqdm
 1. Create a file containing the list of target URLs (e.g., urls.txt).
 2. Run the script:
 
-```python scripthunter.py -f urls.txt -d saved_js_files -t 10```
+```python JScripter.py -f urls.txt -d saved_js_files -t 10```
 
 ### From a Single URL
 1. Run the script with a single URL:
-```python scripthunter.py -u https://example.com -d saved_js_files -t 10```
+```python JScripter.py -u https://example.com -d saved_js_files -t 10```
 
 ## Command-Line Arguments
 * -f, --file: File containing list of target URLs.
