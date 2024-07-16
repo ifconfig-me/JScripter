@@ -1,4 +1,4 @@
-#JScripter - A Noob-Friendly JavaScript Scraper!
+##JScripter - A Noob-Friendly JavaScript Scraper!
 JScripter is a Python script designed to scrape and save unique JavaScript files from a list of URLs or a single URL.
 
 ## Disclaimer
