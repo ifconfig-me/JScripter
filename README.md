@@ -5,6 +5,9 @@ JScripter is a Python script designed to scrape and save unique JavaScript files
 
 > This tool is intended only for educational purposes and for testing in corporate environments. https://twitter.com/nav1n0x/ and https://github.com/ifconfig-me take no responsibility for the misuse of this code. Use it at your own risk. Do not attack a target you don't have permission to engage with.
 
+Feelfee to fork and make this script your own :)
+ 
+
 ## Features
 
 - Scrape JavaScript files from multiple URLs concurrently using threading.
