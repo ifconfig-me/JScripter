@@ -24,7 +24,6 @@ corporate environments. https://twitter.com/nav1n0x/ and https://github.com/ifco
 no responsibility for the misuse of this code. Use it at your own risk.
 Do not attack a target you don't have permission to engage with.
 """
-
 def print_banner():
     print(Fore.CYAN + ASCII_ART + Style.RESET_ALL)
 
