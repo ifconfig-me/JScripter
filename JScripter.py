@@ -20,7 +20,7 @@ ASCII_ART = r"""
 ╱             JScripter       ╱ 
 ╲__╱_____╱╲___╱____╱  ╲______╱╲__╱_____╱  
 This tool is intended only for educational purposes and for testing in
-corporate environments. https://twitter.com/nav1n0x/ and https://github.com/ifconfig-me take
+corporate environments. https://x.com/__nav1n_/ and https://github.com/ifconfig-me take
 no responsibility for the misuse of this code. Use it at your own risk.
 Do not attack a target you don't have permission to engage with.
 """
